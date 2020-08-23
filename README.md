@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning ... Swift
 - 👯 I’m looking to collaborate on ... Cool projects
 - 💬 Ask me about ... anything!
-- 📫 How to reach me: ... [Website](https://www.hasaniqbal.com), [LinkedIn](https://www.linkedin.com/in/mdhasaniqbal), [Email](swapniliqbal@gmail.com)
+- 📫 How to reach me: ... [Website](https://www.hasaniqbal.com), [LinkedIn](https://www.linkedin.com/in/mdhasaniqbal)
 - ⚡ Fun fact: ... I also go by Swapnil
