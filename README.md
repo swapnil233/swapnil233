@@ -1,4 +1,4 @@
-### Hi there, welcome to my GitHub Page 👋
+### Hi there, welcome to my GitHub Page 👋. I'm currently looking for Summer 2021 internships.
 
 - 🔭 I’m currently working on ... mastering JavaScript
 - 🌱 I’m currently learning ... Swift
