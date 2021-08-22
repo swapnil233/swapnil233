@@ -5,3 +5,4 @@
 - 🌱 I’m currently learning ... Swift, React, React Native, and OpenCV
 - 📫 How to reach me: ... [Website](https://www.hasaniqbal.com), [LinkedIn](https://www.linkedin.com/in/mdhasaniqbal)
 - ⚡ Fun fact: ... I also go by Swapnil
+- ![](https://komarev.com/ghpvc/?username=swapnil233&color=blueviolet&style=flat&label=PROFILE+VIEWS)
