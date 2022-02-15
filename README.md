@@ -4,6 +4,6 @@
 ![](https://komarev.com/ghpvc/?username=swapnil233&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 - 
 - 🔭 I’m currently working on ... mastering JavaScript
-- 🌱 I’m currently learning ... Swift, React, React Native, and OpenCV
+- 🌱 I’m currently learning ... Node.js, Express.js, React
 - 📫 How to reach me: ... [Website](https://www.hasaniqbal.com), [LinkedIn](https://www.linkedin.com/in/mdhasaniqbal)
 - ⚡ Fun fact: ... I also go by Swapnil
