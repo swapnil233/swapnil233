@@ -1,5 +1,5 @@
 # Hi, welcome to my GitHub Page 👋. 
-### I'm currently working as a UX Designer and Web Applications Developer on the Reusable Applications Department (RAD) UX Team at [Environmnent and Climate Chance Canada.](https://www.canada.ca/en/environment-climate-change.html)
+### I'm currently working as a UX Designer and Web Applications Developer at [Environmnent and Climate Chance Canada.](https://www.canada.ca/en/environment-climate-change.html)
 
 ![](https://komarev.com/ghpvc/?username=swapnil233&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 - 
