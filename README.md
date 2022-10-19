@@ -3,7 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=swapnil233&color=blueviolet&style=flat&label=PROFILE+VIEWS)
 - 
-- 🔭 I’m currently working on ... mastering JavaScript
-- 🌱 I’m currently learning ... Typescript & React
+- 🌱 I’m currently learning ... ASP.NET Core MVC, Blazor, and TypeScript
 - 📫 How to reach me: ... [Website](https://www.hasaniqbal.com), [LinkedIn](https://www.linkedin.com/in/mdhasaniqbal)
 - ⚡ Fun fact: ... I also go by Swapnil, hence the username 'swapnil233'
