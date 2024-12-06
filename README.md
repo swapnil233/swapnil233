@@ -1,5 +1,5 @@
 # Welcome to my GitHub Page. 
-I am a UX Researcher and Designer with a proven track record of creating intuitive, user-centered web applications with delightful user experiences. I currently work at Environment and Climate Change Canada, designing and developing web applications with a strong focus on accessibility.
+I am a UX Researcher and Designer currently work at Environment and Climate Change Canada, designing and developing web applications with a strong focus on accessibility.
 
 My skill set includes designing interactive and accessible interfaces using Figma, conducting and analyzing qualitative UX research, and developing full-stack web applications.
 
